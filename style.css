@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans';
+
+}
+
+.banner-text{
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+}
+
+.banner-description{
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.banner-button{
+    padding: 20px 30px;
+    background-color: #F15B22;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.section-banner{
+    text-align: left;
+    display: flex;
+    justify-content:right;
+    padding-top: 216px;
+}
+
+.header{
+    background-image: url(images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    
+}
+
+.you{
+    text-align: right;
+    padding-right: 230px;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.section-1-text h1{
+    padding-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.section-1p{ 
+    padding-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px
+}
+
+.section-1-text2 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.section-1{
+    display: flex;
+}
+
+.section-1-text{
+    padding-left: 100px;
+    padding-top: 400px;
+}
+
+.section-1-image{
+    padding-left: 400px;
+    padding-top: 150px;
+}
+
+/* ............................................... */
+
+.plane{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.third-section{
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+
+
+
+
+
