@@ -1,3 +1,4 @@
+/* header Start */
 *{
     margin: 0;
     font-family: 'Work Sans';
@@ -49,7 +50,9 @@
     padding-right: 230px;
 }
 
-/* -------------------------------------------------------------------------- */
+/* header closed */
+
+/* main section */
 
 .section-1-text h1{
     padding-bottom: 50px;
@@ -84,19 +87,121 @@
     padding-top: 150px;
 }
 
-/* ............................................... */
+/* .. closed . */
+
+/* Section-2 Start */
 
 .plane{
     text-align: center;
     font-weight: 700;
     font-size: 40px;
+    margin-bottom: 100px;
+    margin-top: 150px;
 }
 
 .third-section{
+    margin-bottom: 200px;
     display: flex;
-    padding-left: 200px;
-    padding-right: 200px;
+    justify-content: space-around;
 }
+.web{
+    padding-left: 200px;
+}
+
+.ecom{
+    padding-right: 80px;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h3{
+    text-align: center;
+}
+
+.image-1{
+    padding-left: 65px;
+}
+
+.image-2{
+    padding-left: 18px;
+}
+
+.image-3{
+    padding-left:35px; 
+}
+
+.image-4{
+    padding-left:22px ;
+}
+
+/* footer start */
+
+.footer-h1{
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 45px;
+
+}
+
+.footer-1{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 15px;
+}
+
+.footer-2{
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   margin-bottom: 10px;
+}
+
+span{
+    display: flex;
+    margin-top: 20px;
+}
+
+.form-title{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+
+.btn-2{
+    display: block;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px 25px;
+    background-color: #FFFFFF;
+    color: #F15B22;
+    border: none;
+}
+
+#email{
+    margin-bottom: 15px;
+
+}
+
+footer{
+    margin-top: 40px;
+    background-color: black;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.twitter{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* ......Alhamdulillah Done...... */
 
 
 
